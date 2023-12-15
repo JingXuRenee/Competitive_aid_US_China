@@ -1,5 +1,7 @@
 # Competitive_aid_US_China
-This repository contains the complete, working R script, data and output figures for the Final Project of my course: POLI_3148 Data science in politics and public administration in 2023 Fall.
+This repository contains the complete, working R scrip and output figures for the Final Project of my course: POLI_3148 Data science in politics and public administration in 2023 Fall.
+
+The raw data files are too large to be uploaded, thus providing the data sources below.
 
 The topic of the project is The Competitive Aid: A Case Study of US and China Aid to African Countries.
 
